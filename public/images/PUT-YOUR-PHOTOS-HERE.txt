@@ -1,0 +1,7 @@
+Drop your hero photo (and og-preview image, if different) in this folder.
+
+Then open config/wedding.config.js and update:
+  hero.image  -> "/images/your-file-name.jpg"
+  seo.ogImage -> "/images/your-og-file-name.jpg"
+
+See the main README.md, section "Adding the hero photo", for details.
