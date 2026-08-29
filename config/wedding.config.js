@@ -8,7 +8,8 @@
 
 module.exports = {
   couple: {
-    groom: "Manikanta Swami",
+    groom: "Manikanta Swamy "
+,
     bride: "Lakshmi Kalyani"
   },
 
@@ -30,11 +31,11 @@ module.exports = {
     // the exact spot from the address alone, paste GPS coordinates here
     // instead, e.g. "16.7581,81.7458" — see README.md "Adding the venue
     // location" for how to get these from Google Maps.
-    mapsQuery: "https://maps.app.goo.gl/jeGDo8d6FncfPEoHA?g_st=awb"
+    mapsQuery: "https://maps.google.com?q=16.7230534,81.8714559&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813469,94286869,100820247,100822499&g_st=iw"
   },
 
   // Phone numbers shown (and tappable) in the Contact section.
-  contacts: ["9493962477", "8885483332"],
+  contacts: ["9493962477", "8885483332", "8886178666"],
 
   // RSVP → WhatsApp. See README.md "Setting up WhatsApp for RSVP".
   whatsapp: {
