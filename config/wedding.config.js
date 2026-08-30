@@ -31,7 +31,7 @@ module.exports = {
     // the exact spot from the address alone, paste GPS coordinates here
     // instead, e.g. "16.7581,81.7458" — see README.md "Adding the venue
     // location" for how to get these from Google Maps.
-    mapsQuery: "16°43'23.0"N 81°52'17.2"E"
+    mapsQuery: "16.723053, 81.871456"
   },
 
   // Phone numbers shown (and tappable) in the Contact section.
