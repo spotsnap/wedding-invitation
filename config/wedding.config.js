@@ -16,7 +16,7 @@ module.exports = {
   date: "03 September 2026",
 
   muhurtham: {
-    date: "04-Sep-2026",
+    date: "03-Sep-2026",
     time: "2:59 AM"
   },
 
@@ -31,7 +31,7 @@ module.exports = {
     // the exact spot from the address alone, paste GPS coordinates here
     // instead, e.g. "16.7581,81.7458" — see README.md "Adding the venue
     // location" for how to get these from Google Maps.
-    mapsQuery: "https://maps.google.com?q=16.7230534,81.8714559&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813469,94286869,100820247,100822499&g_st=iw"
+    mapsQuery: "16°43'23.0"N 81°52'17.2"E"
   },
 
   // Phone numbers shown (and tappable) in the Contact section.
@@ -45,7 +45,7 @@ module.exports = {
     // Leave this as an empty string to disable WhatsApp redirect — the
     // RSVP form will then only save responses on the server (see
     // data/rsvps.json).
-    number: "8886178666",
+    number: "918886178666",
 
     // Message pre-filled into WhatsApp when a guest submits the RSVP form.
     // Keep the {placeholders} — they get swapped for the guest's actual
