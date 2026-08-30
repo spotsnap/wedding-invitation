@@ -16,7 +16,7 @@ module.exports = {
   date: "03 September 2026",
 
   muhurtham: {
-    date: "03-Sep-2026",
+    date: "04-Sep-2026",
     time: "2:59 AM"
   },
 
